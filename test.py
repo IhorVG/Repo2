@@ -1,4 +1,5 @@
 def VivaMrchmat():
-    print("Viva")
+    print("Viva!!!")
 
-VivaMrchmat()
+for i in range(10):
+    VivaMrchmat()
